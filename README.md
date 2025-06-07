@@ -11,15 +11,15 @@ Bienvenido a este repositorio, donde encontrarás la solución completa a la act
 Este repositorio contiene:
 
 	Repositorio/
-├── 📜 consultar_indices.sql
-├── 📜 desactivar_restricciones.sql
-├── 📜 insertar_datos_invalidos.sql
-├── 📜 reactivar_restricciones.sql
-├── 📜 crear_departments2.sql
-├── 📜 transacciones_departments2.sql
-├── 📜 rollback_ejemplo.sql
-├── 📸 capturas/ # Evidencias gráficas (pantallazos)
-└── 📄 documentacion_actividad.pdf
+├── consultar_indices.sql
+├── desactivar_restricciones.sql
+├── insertar_datos_invalidos.sql
+├── reactivar_restricciones.sql
+├── crear_departments2.sql
+├── transacciones_departments2.sql
+├── rollback_ejemplo.sql
+├── capturas/ # Evidencias gráficas (pantallazos)
+└── documentacion_actividad.pdf
 
 ---
 
@@ -39,17 +39,17 @@ A continuación, se describen los pasos seguidos en esta actividad y los resulta
 ###  1. Consulta de índices
 
 - Se usó `consultar_indices.sql` para listar los índices en `employees` y `departments`.
-- ✅ Resultado: Se visualizaron los índices relacionados con claves primarias y foráneas.
+- Resultado: Se visualizaron los índices relacionados con claves primarias y foráneas.
 
 ###  2. Desactivación de restricciones
 
 - Se ejecutó `desactivar_restricciones.sql`.
-- ✅ Resultado: Restricciones deshabilitadas exitosamente.
+- Resultado: Restricciones deshabilitadas exitosamente.
 
 ###  3. Inserción de datos inválidos
 
 - Script: `insertar_datos_invalidos.sql`
-- ✅ Resultado: Datos inconsistentes insertados gracias a la desactivación temporal de restricciones.
+- Resultado: Datos inconsistentes insertados gracias a la desactivación temporal de restricciones.
 
 ###  4. Reactivación de restricciones
 
