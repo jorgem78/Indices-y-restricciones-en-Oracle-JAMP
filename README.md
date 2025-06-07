@@ -73,5 +73,5 @@ A continuación, se describen los pasos seguidos en esta actividad y los resulta
 ### 9. Ejemplo de ROLLBACK
 
 - Script: `rollback_ejemplo.sql`
-- 🔁 Resultado: Se revierte una inserción antes del commit, lo cual se valida mediante una consulta posterior.
+- Resultado: Se revierte una inserción antes del commit, lo cual se valida mediante una consulta posterior.
 
