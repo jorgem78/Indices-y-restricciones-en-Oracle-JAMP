@@ -11,3 +11,7 @@ BEGIN
    DBMS_OUTPUT.PUT_LINE('Transacción deshecha con ROLLBACK');
 END;
 /
+
+SELECT * FROM departamentos2 WHERE departamento_id = 99;
+
+
