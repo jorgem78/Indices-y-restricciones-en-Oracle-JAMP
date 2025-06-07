@@ -1,4 +1,4 @@
-	# Índices y Restricciones en Oracle – Actividad Práctica
+	## Índices y Restricciones en Oracle – Actividad Práctica
 
 Bienvenido a este repositorio, donde encontrarás la solución completa a la actividad sobre **índices, restricciones y transacciones en Oracle 11g**, utilizando el esquema `HR` y el entorno **SQL Developer**.
 
@@ -6,7 +6,7 @@ Bienvenido a este repositorio, donde encontrarás la solución completa a la act
 
 ---
 
-## 🧠 Contenidos del Proyecto
+## Contenidos del Proyecto
 
 Este repositorio contiene:
 
