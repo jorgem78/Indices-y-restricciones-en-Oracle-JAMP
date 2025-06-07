@@ -18,7 +18,7 @@ Este repositorio contiene:
 ├── crear_departments2.sql
 ├── transacciones_departments2.sql
 ├── rollback_ejemplo.sql
-├── capturas/ # Evidencias gráficas (pantallazos)
+├── capturas/ Evidencias gráficas (pantallazos)
 └── documentacion_actividad.pdf
 
 ---
